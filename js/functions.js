@@ -20,6 +20,7 @@
  * 
  * 
  */
+
 function tab(tabNavItems,tabPanelItems){
            tabNavItems.forEach(function(tabNavItem,index){
                tabNavItem.onclick = function(){
